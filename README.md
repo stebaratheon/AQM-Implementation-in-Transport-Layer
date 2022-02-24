@@ -20,17 +20,17 @@ An example program for SmED has been provided in
 
 and should be executed as
 
-> ./waf --run "red-vs-smred --queueDiscType=RED"
-> ./waf --run "red-vs-smred --queueDiscType=SMRED"
+* ./waf --run "red-vs-smred --queueDiscType=RED"
+* ./waf --run "red-vs-smred --queueDiscType=SMRED"
 
 ### List of files modified:
-> src/traffic-control/model/red-queue-disc.cc
-> src/traffic-control/model/red-queue-disc.h
-> src/traffic-control/test/red-queue-disc-test-suite.cc
-> examples/traffic-control/wscript
+* src/traffic-control/model/red-queue-disc.cc
+* src/traffic-control/model/red-queue-disc.h
+* src/traffic-control/test/red-queue-disc-test-suite.cc
+* examples/traffic-control/wscript
 
 ### List of files newly added:
-> examples/traffic-conttrol/red-vs-smred.cc
+* examples/traffic-conttrol/red-vs-smred.cc
 
 ## References 
 * https://ieeexplore.ieee.org/document/7726792

@@ -1,4 +1,4 @@
-# CSE 322 Computer Netwowrks Sessional Term Assignment
+# CSE 322 Computer Networks Sessional Term Assignment
 ## Implementation of SmRED in NS3
 ### Overview
 We modified the Random Early Detection(RED)

@@ -1,4 +1,4 @@
-# CSE 322 Computer Networks Sessional Term Assignment
+# Active queue management scheme implementation in NS-3
 ## Implementation of SmRED in NS3
 ### Overview
 We modified the Random Early Detection(RED)
